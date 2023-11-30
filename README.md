@@ -21,7 +21,7 @@ This project is my first attempt at using ScrollTrigger and GSAP animations. It 
 
 To view the site, click [here](https://seblau02.github.io/scrolltrigger/)
 
-### Technologies: HTML, CSS, JS, Gsap
+### Technologies: HTML, CSS, JS, Greensock
 
 ### Images:
 
