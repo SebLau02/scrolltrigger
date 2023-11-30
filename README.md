@@ -13,15 +13,12 @@ Je me suis inspiré des travaux et tutoriels de codrops.
 J'ai utilisé Lenis smooth scroll pour le smooth scroll.
 Les images sont issu de unsplash.
 
-Je te laisse le découvrire [ici]()
+Je te laisse le découvrire [ici](https://seblau02.github.io/scrolltrigger/)
 
 ## En
 
-This project is my firstime scrolltrigger gsap animation, it was to practice it. I really loved this experience, it allows me to discover scrolltrigger and see how scroll animation is easy with scrolltrigger.
-I drew inspiration from codrops tutorials on the same projects.
-I used Lenis smooth scroll to smoothing it.
-Images are from unsplash.
+This project is my first attempt at using ScrollTrigger and GSAP animations. It served as a practice session, and I thoroughly enjoyed the experience. It allowed me to explore ScrollTrigger and understand how scroll animations can be easily implemented with it. I drew inspiration from Codrops tutorials for this project. Additionally, I utilized Lenis smooth scroll to enhance the scrolling experience. The images used in the project are sourced from Unsplash.
 
-To view the site, click [here]()
+To view the site, click [here](https://seblau02.github.io/scrolltrigger/)
 
 ### Technologies: HTML, CSS, JS, Gsap
