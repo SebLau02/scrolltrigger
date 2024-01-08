@@ -26,5 +26,5 @@ To view the site, click [here](https://seblau02.github.io/scrolltrigger/)
 ### Images:
 
 <img src="assets/scrolltrigger1-3.png" alt="laptop" width="800">
-<img src="assets/illustration2.png" alt="small screen" width="800">
+<img src="assets/illustration2.png" alt="small screen" width="400">
 <img src="assets/illustration3.png" alt="lighthouse" width="800">
