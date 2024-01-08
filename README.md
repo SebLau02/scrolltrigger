@@ -13,7 +13,7 @@ Je me suis inspiré des travaux et tutoriels de codrops.
 J'ai utilisé Lenis smooth scroll pour le smooth scroll.
 Les images sont issu de unsplash.
 
-Je te laisse le découvrire [ici](https://seblau02.github.io/scrolltrigger/)
+Je vous laisse le découvrir [ici](https://seblau02.github.io/scrolltrigger/)
 
 ## En
 
