@@ -6,7 +6,7 @@
 
 Scroll animation avec gsap.
 
-### Détail
+### Détails
 
 Ce projet a été un exercice pour pratiquer scrolltrigger de gsap, il m'a permis de voir comment les animations au scroll sont facile avec gsap.
 Je me suis inspiré des travaux et tutoriels de codrops.
@@ -25,6 +25,6 @@ To view the site, click [here](https://seblau02.github.io/scrolltrigger/)
 
 ### Images:
 
-<img src="assets/scrolltrigger1-3.png" alt="accueil" width="800">
-<img src="assets/scrolltrigger2-3.png" alt="first" width="800">
-<img src="assets/scrolltrigger3-3.png" alt="second" width="800">
+<img src="assets/scrolltrigger1-3.png" alt="laptop" width="800">
+<img src="assets/illustration2.png" alt="small screen" width="800">
+<img src="assets/illustration3.png" alt="lighthouse" width="800">
